@@ -1,5 +1,5 @@
 ---
-physics: Physics tag in the YAML frontmatter
+title: checking frontmatter without the physics tag
 ---
 
 # Physics taxonomy tag test
