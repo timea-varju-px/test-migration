@@ -1,6 +1,5 @@
 ---
 title: Physics taxonomy tag test
-physics: "Physics tag in the YAML frontmatter"
 ---
 
 # Physics taxonomy tag test
