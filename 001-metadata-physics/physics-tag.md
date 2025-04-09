@@ -1,3 +1,7 @@
+---
+physics: Physics tag in the YAML frontmatter
+---
+
 # Physics taxonomy tag test
 
 This document tests the assignment of physics taxonomy tags during migration.
