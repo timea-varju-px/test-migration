@@ -1,6 +1,6 @@
-–––   
+---  
 title: Physics taxonomy tag test
-–––
+---
 
 # Physics taxonomy tag test
 
