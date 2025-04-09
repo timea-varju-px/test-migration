@@ -1,7 +1,3 @@
----  
-title: Physics taxonomy tag test
----
-
 # Physics taxonomy tag test
 
 This document tests the assignment of physics taxonomy tags during migration.
