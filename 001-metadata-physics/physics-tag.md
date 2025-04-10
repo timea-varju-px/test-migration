@@ -1,5 +1,6 @@
 ---
 title: checking frontmatter without the physics tag
+physics: Meta-physics
 ---
 
 # Physics taxonomy tag test
