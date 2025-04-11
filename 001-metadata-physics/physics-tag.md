@@ -1,3 +1,8 @@
+---
+title: checking frontmatter without the physics tag
+physics: Metaphysics
+---
+
 # Physics taxonomy tag test
 
 This document tests the assignment of physics taxonomy tags during migration.
