@@ -1,5 +1,5 @@
 ---
-title: checking front matter with the physics tag
+title: Checking front matter with the physics tag
 physics: Metaphysics
 ---
 
