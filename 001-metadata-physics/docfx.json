@@ -4,6 +4,7 @@
       "title": "Physics tag in both the global metadata and the YAML frontmatter",
       "summary": "This product is for testing physics taxonomy term assignment during migration.",
       "version": "Test Version, 3.0.0, 4.5.6",
+      "product": "Product name from global metadata",
       "physics": "Physics updated"
     }
   }
