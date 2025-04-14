@@ -1,6 +1,6 @@
 ---
 title: Checking front matter with the physics tag
-physics: Metaphysics
+physics: Disco
 ---
 
 # MD file with physics tag in the front matter
