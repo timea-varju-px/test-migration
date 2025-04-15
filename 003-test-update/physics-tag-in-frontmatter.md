@@ -4,7 +4,7 @@ physics: Discosomatic-X
 version: 6.6.6
 ---
 
-# MD file with physics tag in the front matter [Test 4]
+# MD file with physics tag in the front matter [Test 45]
 
 This document tests the assignment of physics taxonomy tags during migration.
 
