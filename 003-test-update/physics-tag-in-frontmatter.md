@@ -1,6 +1,7 @@
 ---
 title: Checking front matter with the physics tag
 physics: Discosomatic
+version: 6.6.6
 ---
 
 # MD file with physics tag in the front matter
