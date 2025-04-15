@@ -1,6 +1,6 @@
 ---
 title: Checking front matter with the physics tag
-physics: Discosomatic
+physics: Discosomatic-X
 version: 6.6.6
 ---
 
