@@ -4,7 +4,7 @@ This document tests the assignment or creation of version taxonomy term during m
 
 ## Overview
 
-This test verifies that the migration process correctly extracts the version taxonomy tag from the global metadata and assigns it to the document if the corresponding taxonomy term exists in the "Product Version" vocabulary.
+This test verifies that the migration process correctly extracts the version taxonomy tag from the global metadata and assigns it to the document.
 
 ## Expected behavior
 
