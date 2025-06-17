@@ -1,5 +1,5 @@
 ---
-access control: Internal
+access control: Public
 ---
 
 # MD file with access control tag in the front matter
