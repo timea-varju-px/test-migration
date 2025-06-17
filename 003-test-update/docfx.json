@@ -1,8 +1,8 @@
 {
   "build": {
     "globalMetadata": {
-      "title": "Physics tag in both the global metadata and the YAML frontmatter",
-      "summary": "This product is for testing physics taxonomy term assignment during migration.",
+      "title": "Access control tag in the YAML frontmatter",
+      "summary": "This product is for testing access control term assignment during migration.",
       "version": "Good version 2",
       "physics": "Mecha-fighter-X"
     }
